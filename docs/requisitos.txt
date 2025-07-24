@@ -1,0 +1,5 @@
+- Login de usuário
+- Cadastro de clientes
+- Cadastro de produtos
+- Registro de vendas com itens
+- Exibição do total da venda

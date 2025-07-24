@@ -1,0 +1,5 @@
+1. Iniciar sistema
+2. Login do operador
+3. Cadastro de clientes/produtos
+4. Registrar venda
+5. Exibir relatório

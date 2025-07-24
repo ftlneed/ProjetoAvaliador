@@ -1,0 +1,1 @@
+Tabelas: usuarios, clientes, produtos, vendas, itens_venda. Relacionamentos: 1:N entre clientes e vendas, vendas e itens_venda, produtos e itens_venda.
